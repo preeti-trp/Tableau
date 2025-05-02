@@ -7,6 +7,7 @@ Used Excel to classify data and draw business conclusions
 
 
 **Visualization:** [`Factory Data.twb`](https://public.tableau.com/app/profile/preeti.tri4955/viz/FactoryData_17461870006710/Dashboard1)
+**Excel:** [`Link to excel file`](https://github.com/preeti-trp/Tableau/blob/master/Task%205%20Equality%20Table.xlsx))
 
 **Goal:** 
 
